@@ -5,7 +5,7 @@
 
 """
 * A Tool For Analysing Zhihu User.
-* GitHub: https://github.com/Captain-D/AnaUser
+* GitHub: https://github.com/Captain-D/AnaZhiHu
 * Version: 1.0
 """
 import datetime
